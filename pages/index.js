@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Welcome to Next.jss!, it is poggers</div>
+    return <div>Welcome to Next.js!</div>
 }
 
 export default Home;
