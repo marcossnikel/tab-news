@@ -1,5 +1,9 @@
 function Home() {
-  return <div>Git is an evil</div>;
+  return <div>Git is an evil</div>
 }
 
-export default Home;
+function test() {
+  console.log('HAHAHAHA')
+}
+
+export default Home
